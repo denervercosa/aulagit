@@ -1,0 +1,1 @@
+MySQL é um SGBD (Sistema gerenciador de banco de dados).
